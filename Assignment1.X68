@@ -1,7 +1,7 @@
 *-----------------------------------------------------------
 * Title      : Micro Assignment 1
-* Written by : Mohammad Osama Mohammad Malkawi (120537)
-* Date       : 30/04/2022
+* Written by : Mohammad Malkawi (****)
+* Date       : 30/04/2021
 * Description: Searches and Capitalizes first character of a keyword
 *-----------------------------------------------------------
     ORG    $1000
